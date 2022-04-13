@@ -1,5 +1,5 @@
 ### Youben Go
-* Lazy developer who study every day
+* I'm lazy developer who study every day
 
 ### Working
 * Full-stack developer in [Zipggumigi](https://www.ggumim.co.kr)
